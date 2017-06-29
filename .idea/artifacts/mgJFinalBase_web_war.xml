@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mgJFinalBase-web:war">
+    <output-path>$PROJECT_DIR$/mgJFinalBase-web/target</output-path>
+    <root id="archive" name="mgJFinalBase-web.war">
+      <element id="artifact" artifact-name="mgJFinalBase-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase.iml" filepath="$PROJECT_DIR$/mgJFinalBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase-api/mgJFinalBase-api.iml" filepath="$PROJECT_DIR$/mgJFinalBase-api/mgJFinalBase-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase-common/mgJFinalBase-common.iml" filepath="$PROJECT_DIR$/mgJFinalBase-common/mgJFinalBase-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase-core/mgJFinalBase-core.iml" filepath="$PROJECT_DIR$/mgJFinalBase-core/mgJFinalBase-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase-dao/mgJFinalBase-dao.iml" filepath="$PROJECT_DIR$/mgJFinalBase-dao/mgJFinalBase-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase-model/mgJFinalBase-model.iml" filepath="$PROJECT_DIR$/mgJFinalBase-model/mgJFinalBase-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mgJFinalBase-web/mgJFinalBase-web.iml" filepath="$PROJECT_DIR$/mgJFinalBase-web/mgJFinalBase-web.iml" />
+    </modules>
+  </component>
+</project>
